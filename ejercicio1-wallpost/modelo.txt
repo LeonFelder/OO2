@@ -1,0 +1,2 @@
+{"level":WARNING,"message":"Likes llegaron a 0"}
+{"level":WARNING,"message":"Likes llegaron a 10"}

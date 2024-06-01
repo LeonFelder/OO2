@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-01T13:04:08.343232600Z</date>
+  <millis>1717247048343</millis>
+  <nanos>232600</nanos>
+  <sequence>13</sequence>
+  <logger>modelo</logger>
+  <level>WARNING</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.impl.WallPostImpl</class>
+  <method>like</method>
+  <thread>27</thread>
+  <message>Likes llegaron a 10</message>
+</record>
+<record>
+  <date>2024-06-01T13:04:37.302691400Z</date>
+  <millis>1717247077302</millis>
+  <nanos>691400</nanos>
+  <sequence>24</sequence>
+  <logger>modelo</logger>
+  <level>WARNING</level>
+  <class>ar.edu.unlp.oo1.ejercicio1.impl.WallPostImpl</class>
+  <method>dislike</method>
+  <thread>27</thread>
+  <message>Likes llegaron a 0</message>
+</record>
+</log>
